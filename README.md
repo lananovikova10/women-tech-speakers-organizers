@@ -1542,11 +1542,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Lana Novikova
 
 - [@_Unsolved_](https://twitter.com/_Unsolved_)
+- [Personal Website](https://lananovikova.tech/speaker/)
+- [Bluesky](https://bsky.app/profile/lananovikova.bsky.social)
+- [Mastodon](https://techhub.social/@lananovikova)
 - [Facebook](https://www.facebook.com/svetlnovikova)
-- [LinkedIn](https://ru.linkedin.com/in/svetlana-novikova)
+- [LinkedIn](https://www.linkedin.com/in/svetlana-novikova/)
 - [Github](https://github.com/lananovikova10)
-- Topics - Technical documentation, technical writing, docs as code, knowledge management
-- Location - Moscow, Russia
+- Topics - AI features for developers, developer experience, API adoption, knowledge management for humans and LLMs, documentation as a product
+- Location - Amsterdam, the Netherlands
 - Languages besides English - Russian
 
 #### Jennifer Petoff
@@ -2479,9 +2482,9 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - [RussiaWtd](https://twitter.com/RussiaWtd)
 - [KnowledgeConf](http://knowledgeconf.ru/)
 - [Facebook](https://www.facebook.com/svetlnovikova)
-- [LinkedIn](https://ru.linkedin.com/in/svetlana-novikova)
+- [LinkedIn](https://www.linkedin.com/in/svetlana-novikova/)
 - Group Focus - Technical documentation, knowledge management in IT, content management
-- Location - Moscow, Russia
+- Location - Amsterdam, the Netherlands
 
 #### Diana Pinchuk
 
