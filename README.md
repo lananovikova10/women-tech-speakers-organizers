@@ -2478,9 +2478,7 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 #### Lana Novikova
 
 - [@_Unsolved_](https://twitter.com/_Unsolved_)
-- [Write the docs Russia](https://www.meetup.com/Write-the-Docs-Moscow/)
-- [RussiaWtd](https://twitter.com/RussiaWtd)
-- [KnowledgeConf](http://knowledgeconf.ru/)
+- [Write The Docs Amsterdam](https://www.meetup.com/write-the-docs-amsterdam/)
 - [Facebook](https://www.facebook.com/svetlnovikova)
 - [LinkedIn](https://www.linkedin.com/in/svetlana-novikova/)
 - Group Focus - Technical documentation, knowledge management in IT, content management
